@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "982003608385",
+    "project_id": "choriapp-a1cdb",
+    "storage_bucket": "choriapp-a1cdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982003608385:android:213165745ae713af528fc0",
+        "android_client_info": {
+          "package_name": "com.chorival.choriapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982003608385-7u3g6mrp2qvi177k6o097mg57shns6kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chorival.choriapp",
+            "certificate_hash": "8234b4b8a248d5949f36a2b73eb180fbf99fe58d"
+          }
+        },
+        {
+          "client_id": "982003608385-dh6lb2jcsgagj306u8un5dm264rvk294.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmExZtwJirs4VrAeD0ytC_ZkOzjhGeqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982003608385-dh6lb2jcsgagj306u8un5dm264rvk294.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
